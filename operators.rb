@@ -1,0 +1,8 @@
+puts("Add Operator")
+puts(10+20)
+puts("Subtract Operator")
+puts(45-15)
+puts("Multiply Operator")
+puts(4*5)
+puts("Division Operator")
+puts(20/10)
